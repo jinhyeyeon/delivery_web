@@ -1,4 +1,4 @@
-@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -32,13 +32,13 @@ body {
   color:#333;
   line-height:1.5;
   letter-spacing: -0.3px;
-  font-family: 'Noto Sans Korean', sans-serif;
+  font-family: 'nanumsquare', sans-serif;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
-  font-family: 'Noto Sans Korean', sans-serif;
+  font-family: 'nanumsquare', sans-serif;
   font-size: 13px;
   color: #333;
 }
@@ -68,7 +68,7 @@ img, input, select, textarea {
 input, select, textarea, button {
   font-size: 13px;
   color: #333;
-  font-family: 'Noto Sans Korean', sans-serif;
+  font-family: 'nanumsquare', sans-serif;
 }
 
 .clearfix:after {
