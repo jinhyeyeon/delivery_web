@@ -4,6 +4,7 @@ import './header.scss';
 class Header extends React.Component {
   render() {
     return (
+      <>
         <header className="header">
           <div>
             <h1>
@@ -29,6 +30,8 @@ class Header extends React.Component {
             </ul>
           </div>
         </header>
+        <div className="fake-header" />
+      </>
     );
   }
 }
